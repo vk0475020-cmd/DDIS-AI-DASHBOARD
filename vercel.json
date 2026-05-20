@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/neuro.html" },
+    { "source": "/(.*)", "destination": "/neuro.html" }
+  ]
+}
